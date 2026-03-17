@@ -1,5 +1,9 @@
 [
     {
+        "package": "tidybrreg",
+        "url": "https://github.com/sondreskarsten/tidybrreg"
+    },
+    {
         "package": "ggbumpribbon",
         "url": "https://github.com/sondreskarsten/ggbumpribbon"
     }
