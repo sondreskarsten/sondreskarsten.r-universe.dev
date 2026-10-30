@@ -4,6 +4,16 @@
         "url": "https://github.com/sondreskarsten/tidybrreg"
     },
     {
+        "package": "tidybrregpanel",
+        "url": "https://github.com/sondreskarsten/tidybrreg",
+        "subdir": "tidybrregpanel"
+    },
+    {
+        "package": "tidybrregmcp",
+        "url": "https://github.com/sondreskarsten/tidybrreg",
+        "subdir": "tidybrregmcp"
+    },
+    {
         "package": "ggbumpribbon",
         "url": "https://github.com/sondreskarsten/ggbumpribbon"
     }
